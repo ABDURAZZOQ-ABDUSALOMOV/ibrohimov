@@ -1,0 +1,29 @@
+/*    
+
+main color = #2084e9
+
+
+*/
+
+
+:root
+{
+    --main-color: #2084e9
+}
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana !important;
+}
+
+body {
+    background-color: var(--main-color);
+    width: 100vw;
+    height: 100vh;
+}
+
+
+
